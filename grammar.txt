@@ -126,14 +126,29 @@
                             if从句形式：一般过去时
                             If I passed the N1 test,I would have joined the translation team.
                 ⑥ 感叹语气（Exclamatory Mood）：就是感叹句。
-                    [1]单独一个词的感叹句：
-                        Beautiful!
-                    [2]陈述句后加感叹号，也可以表述感叹语气：
-                        It's a beautiful flower!
-                    [3]What a/an 类型：
-                        What a beautiful flower it is!后面的主谓结构可以省略，可以直接说What a flower!结合语境来判断这句话表达的是花儿美，还是花儿香。
-                    [4]How 类型：
-                        How beautiful it is!同样可以省略主谓结构，How beautiful!通过语境来判断具体含义。
+                    感叹句主要由What和How这两个单词引导：
+                        [1]What引导词（后接名词短语，还有些特殊句子可以省略形容词）：
+                            1、What + a/an + 形容词 + 可数名词单数 （+ 主语 + 谓语）!
+                            What a kind teacher we have!
+                            2、What + 形容词 + 可数名词复数 （+ 主语 + 谓语）!
+                            What useful lessons they are!
+                            3、What + 形容词 + 不可数名词 （+ 主语 + 谓语）!
+                            What clean water it is!
+                            4、省略形容词
+                            What fools!
+                            What a surprise!
+                            What a mess!
+                            What a shame!
+                            What nonsense!
+                        [2]How引导词（后接形容词或副词，也可以修饰强调动词）：
+                            1、How + 形容词/副词 （+ 主语 + 谓语）!
+                            How beautiful she is!
+                            2、How + 形容词 + a/an + 可数名词单数 （+ 主语 + 谓语）!
+                            How kind a teacher she is!
+                            3、How + 主语 + 谓语!（此句型不可省略主谓）
+                            How time flies!
+                            4、修饰强调动词
+                            How dare you!
         1.1.3、动作时间和动作状态可以进行任意排列组合
             （1）现在：
                 ① 一般现在时态：兔子吃胡萝卜。
