@@ -117,7 +117,7 @@
 6、动词（Verb）
     重点，动词是句子的核心。
     6.1、按照功能，动词可划分为实义动词、系动词、情态动词、助动词四类。
-        （1）实义动词：有实际意义的动词，可以完整的充当句子中的谓语动词，其他三个不能作为谓语动词。
+        （1）实义动词：有实际意义的动词，可以完整的充当句子中的谓语动词，其他三个不能作为谓语动词，他们是非谓语动词。
         （2）系动词：用于连接主语和表语（也就是主语补语，只是中国英语教学称为表语）的动词，表示主语的状态或特征，比如：
             ① be动词，am，s，are
             She is beautiful.
@@ -136,8 +136,8 @@
         （3）情态动词：表示说话人对动作或状态的看法、态度或意愿，如can（过去式could）、may（过去式might）、must、need、shall（过去式should，用于主语第一人称）、will（过去式would，用于主语第二、第三人称）、ought to、dare等，用来表达某种情绪或态度，协助主要动词一起构成谓语‌。
             I can speak English.
             She will come to see us.
-        （4）助动词：用来协助主要动词，表示时间、状态、语气等，
-            下列为部分助动词：
+        （4）助动词：用来协助动词，表示时间、状态、语气等，
+            有助动词如下：
                 be（am，is，are，was，were）
                 do（does，did）
                 have（has，had）
@@ -145,17 +145,29 @@
                 can（could）
                 shall（用于主语第一人称，should）
                 will（用于主语第二、第三人称，would）
+                seem to（seems to，seemed to）
+                have to（has to，had to）
+            有动词如下：
+                do       动词原形，谓语动词
+                does     第三人称单数，谓语动词
+                did      过去式（过去做的动作），谓语动词
+                doing    现在分词（正在做），非谓语动词
+                done     过去分词（助动词have表示已经做完、助动词be表示被动），非谓语动词
+                to do    动词不定式（将要做），非谓语动词
+            助动词和动词的搭配为：
+                be（am，is，are，was，were） + doing
+                be（am，is，are，was，were） + done
+                be（am，is，are，was，were） + to do
+                have（has，had） + done
+                do（does，did） + do
+                can（could） + do
+                will（用于主语第二、第三人称，would） + do
+                seem to（seems to，seemed to） + do
+                have to（has to，had to） + do
             举例：
                 我正在看电影。
                 I am watching a movie.
-            这里助动词协助谓语动词表示了动作现在正在发生（时间：现在、状态：进行）。
-            助动词 + 实义动词/谓语动词 = 更多的含义
-                        do              动词原形
-                        does            第三人称单数
-                        did             过去式（过去做的动作）
-                        doing           现在分词（正在做）
-                        done            过去分词（助动词have表示已经做完、助动词be表示被动）
-                        to do           动词不定式（将要做）
+            这里助动词协助动词表示了动作现在正在发生（时间：现在、状态：进行）。
     6.2、按照句子成分，动词可划分为谓语动词、非谓语动词两类。
         6.2.1、谓语动词（Predicate Verb，又称限定性动词）
             6.2.1.1、谓语动词的分类
@@ -398,7 +410,16 @@
         主语就是整个句子围绕着展开、围绕着说的主体，可以是人或物。
     2、谓语（Predicate）
         谓语的本质就是动词，只是在词性上算动词，在句子成分上算谓语。它用来表示主语做什么事儿，或者说明主语是怎么怎么样。
+        谓语可分为简单谓语，复合谓语：
+        （1）简单谓语：单个动词
+            I read books everyday.
+            The purse is expensive.
+        （2）复合谓语：助动词 + 动词的某种变形
+            She will go to school tomorrow.
+            I can speak englsh.
+        注意：在无任何连词的情况下，一个英语句子只能有一个谓语！其他的动词考虑是非谓语动词。
     3、宾语（Object）
+        动作的承受者就是宾语，可以是人或物。
     4、宾语补语/补语（Object Complement）
     5、主语补语/表语（Subject Complement）
     6、定语（Attributive）
