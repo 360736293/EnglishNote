@@ -420,6 +420,13 @@
         注意：在无任何连词的情况下，一个英语句子只能有一个谓语！其他的动词考虑是非谓语动词。
     3、宾语（Object）
         动作的承受者就是宾语，可以是人或物。
+        宾语分为动词宾语，介词宾语，双宾语。
+        （1）动词宾语：动词后面的宾语。
+            I like you.
+        （2）介词宾语：介词后面的宾语。
+            I enjoy working with you.
+        （3）双宾语：直接宾语和间接宾语。
+            I give him a book.
     4、宾语补语/补语（Object Complement）
     5、主语补语/表语（Subject Complement）
     6、定语（Attributive）
