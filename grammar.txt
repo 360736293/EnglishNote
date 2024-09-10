@@ -1,213 +1,396 @@
 一、十大词性（词类）
-1、动词（Verb）
-    1.1、谓语动词（Predicate Verb，又称限定性动词）
-        1.1.1、谓语动词的分类（尽可能的介绍概念，其中相互之间可能会有包含关系）
-            （1）不及物动词：不需要宾语即可表达完整意义的动词，如run、laugh、sleep。
-            （2）单及物动词（单宾动词）：需要一个宾语来补全意义的动词，如read book、eat apple、write letter。
-            （3）双及物动词（双宾动词）：需要两个宾语（直接宾语和间接宾语）的动词，如give him a book、‌teach student english。
-            （4）复杂及物动词：除了需要一个宾语外，还需要其他成分（如介词短语）来补全意义的动词，如he makes me happy，既有宾语me，又有宾语补足语happy。
-            （5）系动词：用于连接主语和表语（也就是主语补语，只是中国英语教学称为表语）的动词，表示主语的状态或特征，如he is handsome。
-            （6）实义动词：有实际意义的动词，可以完整的作谓语，上述（1）（2）（3）（4）都是实义动词。
-            （7）情态动词：表示说话人对动作或状态的看法、态度或意愿，如can、may、must、need、shall（用于主语第一人称）、will（用于主语第二、第三人称）等，用来表达某种情绪或态度，协助主要动词一起构成谓语‌。
-            （8）助动词：用来协助主要动词，表示时间、状态、语气等，例如be, have, do, shall（用于主语第一人称）, will（用于主语第二、第三人称）等。
-        1.1.2、谓语动词的三种功能
-            （1）表示动作时间（Tense）
-                ① 现在：动作在现在发生。
-                ② 过去：动作在过去发生。
-                ③ 将来：动作在将来发生。
-                ④ 过去将来：针对于过去的某一个时间点来说，动作在“将来”发生，这里的“将来”相对于“现在”这个时间参照点来说，可以是过去，可以是现在，也可以是将来。
-            （2）表示动作状态（Aspect）
-                ① 一般：动作的发生没有具体说明或者强调状态，通常只是在描述一种事实。
-                ② 完成：动作的发生已经完成了。
-                ③ 进行：动作的发生还在进行中。
-                ④ 完成进行：动作的一部分完成了，但是动作还在进行中。
-            （3）表示动作语气（Mood）
-                ① 陈述语气（Indicative Mood）：描述一种事实。
-                    比如：兔子吃了胡萝卜。
-                ② 祈使语气（Imperative Mood）：命令或者请求（绝大多数情况下用第二人称“你”，用一般现在时态，去掉“你”，并保证动词原型，就是一个祈使句。You eat the carrot!变为Eat the carrot!）。
-                    比如：
-                        兔子，吃胡萝卜！
-                    又比如：
-                        拜托了兔子，请吃胡萝卜！
-                ③ 虚拟语气（Subjunctive Mood）：
-                    一、功能一：描述不可能的假设。
-                        [1]与现在事实相反：
-                            条件句：过去式
-                            主句：would + 动词原形
-                            If I were you, I would do this.
-                            如果我是你，我会做这个。
-                        [2]与将来事实相反，或者很小可能性的动作、事件：
-                            条件句：should + 动词原形
-                            主句：would（主语如果是第二三人称）/should（主语如果是第一人称） + 动词原形
-                            If I should meet you after long years, how should I greet you?
-                            万一我将来遇见了你，我该如何向你问候？
-                        [3]与过去事实相反:
-                            条件句：had + 动词过去分词
-                            主句：would have + 动词过去分词
-                            If I had watched this video before, I would have passed my test.
-                            如果我之前就看了这个视频，我就能通过我的测试。
-                    二、功能二：描述愿望、请求、建议、命令等。
-                        代表词：wish（不用hope是因为wish表示希望可能性小的事，而hope更中性）
-                        [1]对现在的愿望：动词过去式
-                            I wish that I were a rabbit.
-                            我希望我是只兔子。
-                        [2]对过去的愿望：had(would have) + 动词过去分词
-                            I wish that I had eaten the carrot.
-                            我希望我吃了那个胡萝卜。
-                        [3]对将来的愿望：should/might/could/would + 动词原形
-                            I wish that I could eat the carrot.
-                            我希望我能吃那个胡萝卜。
-                    注意：虚拟语气的以上两种功能中，如果动词是be（就是也包括be的一切变位），那么过去式要用were，不管是什么人称！
-                ④ 疑问语气（Interrogative Mood ）：提出问题的语气。
-                    [1]一般疑问句：也称“是非问句”，即可以用Yes或No回答的疑问句。
-                        由陈述句变化而来，其构成一般可以分成两种：
-                        1、对于含有实义动词的句子：助动词 + 主语 + 实义动词 + 其他成分 + ?
-                        He read that book last month. -> Did he read that book last month?
-                        2、对于主系表类型的句子：be动词 + 主语 + 其他成分 + ?
-                        Warcraft is his favorite game. -> Is Warcraft his favorite game?
-                    [2]特殊疑问句：由特殊疑问词引导的，对句中某一成分提问的疑问句。
-                        可以分为三种：
-                        1、疑问代词：What/Who/Whom/Which/Whose（提问是什么、是谁、是哪一个、是谁的）
-                        Who is giving the talk today?
-                        Whom did you speak to?
-                        What are you doing?
-                        2、疑问副词：When/Why/Where/How（提问时间、原因、地点、方式）
-                        When did you get here?
-                        Where will you go for sabbatical?
-                        How far is it?
-                        3、疑问形容词：What/Whose/Which（提问什么、谁的、哪个）
-                        What time...
-                        Which year...
-                    [3]反义疑问句：也称“附加疑问句”，表示提问者期待被问者对所陈述的内容的肯定或否定。(前肯后否，前否后肯)
-                        You have been there before, haven't you?
-                        He didn't mention that, did he?
-                        You have never been there, have you?
-                        She rarely swims, does she?
-                        英语中回答要针对附加疑问句，
-                        No,I haven't.
-                        No,he didn't.
-                        注意：反义疑问句可分为前肯后否与前否后肯。
-                        第一种：前肯后否的回答思路，如实回答即可，这种前肯后否的回答和我们中文的思路差不多。
-                        Q:He is handsome,isn’t he? 他很帅，不是吗？
-                        A1:Yes，he is。是的，他很帅。
-                        A2:No，he isn’t。不，他不帅。
-                        第二种：前否后肯的回答思路，我们从下面一个例句来分析。
-                        Q: Your wife isn't in China now,is she?您的妻子现在不在中国，是吧？
-                        A1：肯定回答：Yes，she is。不，她在。
-                        A2：否定回答：No，She isn't。是的，她不在。
-                        也就是说：如果对方采用前否后肯的问句向你提问，如果他说的对，我们就用No，如果他说的不对，我们就用yes。同时也要注意，回答的内容应是两个肯定或两个否定。如：
-                        Yes, she is。
-                        No, she isn’t。
-                ⑤ 条件语气（Conditional Mood）：存在某种假设状态，或表达动词动作的不确定性。英语中的条件语气可以用表示条件的情态动词（条件语气常见would、should、could、might等）或条件状语从句表现。
-                    [1]表述一般事实：
-                        主句形式：一般现在时
-                        if从句形式：一般现在时
-                        If you heat ice,it melts.
-                    [2]表述假想条件及其在现在或将来的结果：
-                        （主将从现）
-                        主句形式：一般将来时
-                        if从句形式：一般现在时
-                        If you don't hurry,you will miss the flight.
-                    [3]表述假想的或不大可能发生的事及其在现在或任何时间的结果：
-                        主句形式：一般过去将来时/过去将来进行时
-                        if从句形式：一般过去时
-                        If you went to bed earlier,you would not be so tired now.
-                    [4]表述在过去的与事实相反的条件及其在过去有可能产生的结果：
-                        主句形式：将来完成时/将来完成进行时
-                        if从句形式：过去完成时
-                        If you had studied harder,you would have passed the exam.
-                    [5]表述与现在/过去事实相反的条件及其在过去/现在有可能产生的结果：
-                        1、
-                            主句形式：一般过去将来时
-                            if从句形式：过去完成时
-                            If I had taken that job,I would be a millionaire now.
-                        2、
-                            主句形式：过去将来完成时
+1、名词（Noun）
+    名词总结来说就是人或物，其分为可数名词和不可数名词。
+    4.1、可数名词：
+        能被数尽（或者可以被数）的就是可数名词，比如apple，其复数形式要加s为apples。
+    4.2、不可数名词：
+        不能被数尽（或者不能被数）的就是不可数名词，比如water。
+2、代词（Pronoun）
+    代词就是能代替人或物的词。
+    This is my mother.She is a teacher.
+    这里的she就是代词，代替了前面的mother。
+    代词分为人称代词，形容词性物主代词，名词性物主代词，反身代词，不定代词，指示代词，相互代词，疑问代词，关系代词，连接代词。
+    5.1、人称代词：
+        顾名思义代替人的词，其有主格和宾格两种形式。
+        举例：
+                    主格        宾格
+            你      you         you
+            我      i           me
+            他      he          him
+            她      she         her
+            它      it          it
+            你们    you         you
+            我们    we          us
+            他们    they        them
+            她们    they        them
+            它们    they        them
+        我们可以把主格看为主体，宾格看为客体，主体是动作的发出者，客体是动作的承受者。比如He loves them，他爱他们，这里的he就是主体，them就是客体。
+    5.2、形容词性物主代词：
+        举例：
+            你的    your
+            我的    my
+            他的    his
+            她的    her
+            它的    its
+            你们的  your
+            我们的  our
+            他们的  their
+            她们的  their
+            它们的  their
+    5.3、名词性物主代词：
+        举例：
+            你的东西    yours
+            我的东西    mine
+            他的东西    his
+            她的东西    hers
+            它的东西    its
+            你们的东西  yours
+            我们的东西  ours
+            他们的东西  theirs
+            她们的东西  theirs
+            它们的东西  theirs
+    5.4、反身代词：
+        反身指的是反过来代替本身。
+        举例：
+            你自己      yourself
+            我自己      myself
+            他自己      himself
+            她自己      herself
+            它自己      itself
+            你们自己    yourselves
+            我们自己    ourselves
+            他们自己    themselves
+            她们自己    themselves
+            它们自己    themselves
+        例如，I hurt myself.如果动作的发出者和承受者是同一个人，这里就要用反身代词，而不能是人称代词宾格！！！
+    5.5、不定代词：
+        不定指的是不确定的意思，就是代词代替的东西不确定是某个具体的人或物。
+        举例：
+            不定代词   \     thing       body        one
+            some     some   something   somebody    someone
+            any      any    anything    anybody     anyone
+            no        \     nothing     nobody      no one
+            every     \     everything  everybody   everyone
+        其余还有each，one/ones，much，many，little/a little，few/a few，all，none，other/others，another，both，either，neither。
+    5.6、指示代词：
+            这个        this
+            那个        that
+            这些        these
+            那些        those
+            这样的      such
+            相同的      same
+    5.7、相互代词：
+        举例：
+            两者之间彼此    each other
+            三者之间彼此    one another
+    5.8、疑问代词：
+        举例：
+            什么    what
+            谁      who
+    5.9、关系代词：
+    5.10、连接代词：
+3、冠词（Article）
+    冠词就是冠在名词之前的词。分为定冠词，不定冠词，零冠词。
+    2.1、定冠词：the，特指那个。
+    2.2、不定冠词：a/an（单词首字母是元音a，e，i，o，u），泛指一个。
+    2.3、零冠词：名词前面什么冠词都不加。
+4、形容词（Adjective）
+    用来修饰名词，表示什么样的人或什么样的东西。
+    I am a lucky guy.
+    形容词有比较级，最高级，如下：
+                短音节      长音节              特殊变形
+    原级：      tall        beautiful           good
+    比较级：    taller      more beautiful      better
+    最高级：    tallest     most beautiful      best
+5、副词（Adverb）
+    5.1、用来修饰动词，表示怎么样地做了一件事。
+        I can learn things quickly.
+    5.2、用来修饰形容词、副词。这类副词主要指的是程度副词，就是非常，很，稍微等。
+        extremely important极其重要的/very quickly非常快速地
+    5.3、还有一类看起来不像是副词但其实是副词的。
+        go away（副词，向远处），sit down（副词，向下面），go on（副词，向前面），come in（副词，向里面）。
+    副词有比较级，最高级，如下：
+                短音节      长音节              特殊变形
+    原级：      fast        carefully           badly
+    比较级：    faster      more carefully      worse
+    最高级：    fastest     most carefully      worst
+6、动词（Verb）
+    重点，动词是句子的核心。
+    6.1、按照功能，动词可划分为实义动词、系动词、情态动词、助动词四类。
+        （1）实义动词：有实际意义的动词，可以完整的充当句子中的谓语动词，其他三个不能作为谓语动词。
+        （2）系动词：用于连接主语和表语（也就是主语补语，只是中国英语教学称为表语）的动词，表示主语的状态或特征，比如：
+            ① be动词，am，s，are
+            She is beautiful.
+            I am a teacher.
+            They are in the room.
+            ② 感官，feel，smell，sound，taste，look
+            Dinner smells good.
+            ③ 保持...，keep，remain，stay，stand，lie
+            The girl keeps silent.
+            ④ 变得...，become，go，turn，grow，fall
+            She becomes a teacher.
+            ⑤ 结果是，证明是，prove，turn out
+            The rumor proved false.
+            ⑥ 看起来像，seem，appear
+            He seems very sad.
+        （3）情态动词：表示说话人对动作或状态的看法、态度或意愿，如can（过去式could）、may（过去式might）、must、need、shall（过去式should，用于主语第一人称）、will（过去式would，用于主语第二、第三人称）、ought to、dare等，用来表达某种情绪或态度，协助主要动词一起构成谓语‌。
+            I can speak English.
+            She will come to see us.
+        （4）助动词：用来协助主要动词，表示时间、状态、语气等，
+            下列为部分助动词：
+                be（am，is，are，was，were）
+                do（does，did）
+                have（has，had）
+                have to（has to，had to）
+                can（could）
+                shall（用于主语第一人称，should）
+                will（用于主语第二、第三人称，would）
+            举例：
+                我正在看电影。
+                I am watching a movie.
+            这里助动词协助谓语动词表示了动作现在正在发生（时间：现在、状态：进行）。
+            助动词 + 实义动词/谓语动词 = 更多的含义
+                        do              动词原形
+                        does            第三人称单数
+                        did             过去式（过去做的动作）
+                        doing           现在分词（正在做）
+                        done            过去分词（助动词have表示已经做完、助动词be表示被动）
+                        to do           动词不定式（将要做）
+    6.2、按照句子成分，动词可划分为谓语动词、非谓语动词两类。
+        6.2.1、谓语动词（Predicate Verb，又称限定性动词）
+            6.2.1.1、谓语动词的分类
+                （1）不及物动词：不需要宾语即可表达完整意义的动词，如run、laugh、sleep。
+                （2）单及物动词（单宾动词）：需要一个宾语来补全意义的动词，如read book、eat apple、write letter。
+                （3）双及物动词（双宾动词）：需要两个宾语（直接宾语和间接宾语）的动词，如give him a book、‌teach student english。
+                （4）复杂及物动词：除了需要一个宾语外，还需要其他成分（如介词短语）来补全意义的动词，如he makes me happy，既有宾语me，又有宾语补足语happy。
+                上述四种都属于“实义动词”。
+            6.2.1.2、谓语动词的三种功能
+                （1）表示动作时间（Tense）
+                    ① 现在：动作在现在发生。
+                    ② 过去：动作在过去发生。
+                    ③ 将来：动作在将来发生。
+                    ④ 过去将来：针对于过去的某一个时间点来说，动作在“将来”发生，这里的“将来”相对于“现在”这个时间参照点来说，可以是过去，可以是现在，也可以是将来。
+                （2）表示动作状态（Aspect）
+                    ① 一般：动作的发生没有具体说明或者强调状态，通常只是在描述一种事实。
+                    ② 完成：动作的发生已经完成了。
+                    ③ 进行：动作的发生还在进行中。
+                    ④ 完成进行：动作的一部分完成了，但是动作还在进行中。
+                （3）表示动作语气（Mood）
+                    ① 陈述语气（Indicative Mood）：描述一种事实。
+                        比如：兔子吃了胡萝卜。
+                    ② 祈使语气（Imperative Mood）：命令或者请求（绝大多数情况下用第二人称“你”，用一般现在时态，去掉“你”，并保证动词原型，就是一个祈使句。You eat the carrot!变为Eat the carrot!）。
+                        比如：
+                            兔子，吃胡萝卜！
+                        又比如：
+                            拜托了兔子，请吃胡萝卜！
+                    ③ 虚拟语气（Subjunctive Mood）：
+                        一、功能一：描述不可能的假设。
+                            [1]与现在事实相反：
+                                条件句：过去式
+                                主句：would + 动词原形
+                                If I were you, I would do this.
+                                如果我是你，我会做这个。
+                            [2]与将来事实相反，或者很小可能性的动作、事件：
+                                条件句：should + 动词原形
+                                主句：would（主语如果是第二三人称）/should（主语如果是第一人称） + 动词原形
+                                If I should meet you after long years, how should I greet you?
+                                万一我将来遇见了你，我该如何向你问候？
+                            [3]与过去事实相反:
+                                条件句：had + 动词过去分词
+                                主句：would have + 动词过去分词
+                                If I had watched this video before, I would have passed my test.
+                                如果我之前就看了这个视频，我就能通过我的测试。
+                        二、功能二：描述愿望、请求、建议、命令等。
+                            代表词：wish（不用hope是因为wish表示希望可能性小的事，而hope更中性）
+                            [1]对现在的愿望：动词过去式
+                                I wish that I were a rabbit.
+                                我希望我是只兔子。
+                            [2]对过去的愿望：had(would have) + 动词过去分词
+                                I wish that I had eaten the carrot.
+                                我希望我吃了那个胡萝卜。
+                            [3]对将来的愿望：should/might/could/would + 动词原形
+                                I wish that I could eat the carrot.
+                                我希望我能吃那个胡萝卜。
+                        注意：虚拟语气的以上两种功能中，如果动词是be（就是也包括be的一切变位），那么过去式要用were，不管是什么人称！
+                    ④ 疑问语气（Interrogative Mood ）：提出问题的语气。
+                        [1]一般疑问句：也称“是非问句”，即可以用Yes或No回答的疑问句。
+                            由陈述句变化而来，其构成一般可以分成两种：
+                            1、对于含有实义动词的句子：助动词 + 主语 + 实义动词 + 其他成分 + ?
+                            He read that book last month. -> Did he read that book last month?
+                            2、对于主系表类型的句子：be动词 + 主语 + 其他成分 + ?
+                            Warcraft is his favorite game. -> Is Warcraft his favorite game?
+                        [2]特殊疑问句：由特殊疑问词引导的，对句中某一成分提问的疑问句。
+                            可以分为三种：
+                            1、疑问代词：What/Who/Whom/Which/Whose（提问是什么、是谁、是哪一个、是谁的）
+                            Who is giving the talk today?
+                            Whom did you speak to?
+                            What are you doing?
+                            2、疑问副词：When/Why/Where/How（提问时间、原因、地点、方式）
+                            When did you get here?
+                            Where will you go for sabbatical?
+                            How far is it?
+                            3、疑问形容词：What/Whose/Which（提问什么、谁的、哪个）
+                            What time...
+                            Which year...
+                        [3]反义疑问句：也称“附加疑问句”，表示提问者期待被问者对所陈述的内容的肯定或否定。(前肯后否，前否后肯)
+                            You have been there before, haven't you?
+                            He didn't mention that, did he?
+                            You have never been there, have you?
+                            She rarely swims, does she?
+                            英语中回答要针对附加疑问句，
+                            No,I haven't.
+                            No,he didn't.
+                            注意：反义疑问句可分为前肯后否与前否后肯。
+                            第一种：前肯后否的回答思路，如实回答即可，这种前肯后否的回答和我们中文的思路差不多。
+                            Q:He is handsome,isn’t he? 他很帅，不是吗？
+                            A1:Yes，he is。是的，他很帅。
+                            A2:No，he isn’t。不，他不帅。
+                            第二种：前否后肯的回答思路，我们从下面一个例句来分析。
+                            Q: Your wife isn't in China now,is she?您的妻子现在不在中国，是吧？
+                            A1：肯定回答：Yes，she is。不，她在。
+                            A2：否定回答：No，She isn't。是的，她不在。
+                            也就是说：如果对方采用前否后肯的问句向你提问，如果他说的对，我们就用No，如果他说的不对，我们就用yes。同时也要注意，回答的内容应是两个肯定或两个否定。如：
+                            Yes, she is。
+                            No, she isn’t。
+                    ⑤ 条件语气（Conditional Mood）：存在某种假设状态，或表达动词动作的不确定性。英语中的条件语气可以用表示条件的情态动词（条件语气常见would、should、could、might等）或条件状语从句表现。
+                        [1]表述一般事实：
+                            主句形式：一般现在时
+                            if从句形式：一般现在时
+                            If you heat ice,it melts.
+                        [2]表述假想条件及其在现在或将来的结果：
+                            （主将从现）
+                            主句形式：一般将来时
+                            if从句形式：一般现在时
+                            If you don't hurry,you will miss the flight.
+                        [3]表述假想的或不大可能发生的事及其在现在或任何时间的结果：
+                            主句形式：一般过去将来时/过去将来进行时
                             if从句形式：一般过去时
-                            If I passed the N1 test,I would have joined the translation team.
-                ⑥ 感叹语气（Exclamatory Mood）：就是感叹句。
-                    感叹句主要由What和How这两个单词引导：
-                        [1]What引导词（后接名词短语，还有些特殊句子可以省略形容词）：
-                            1、What + a/an + 形容词 + 可数名词单数 （+ 主语 + 谓语）!
-                            What a kind teacher we have!
-                            2、What + 形容词 + 可数名词复数 （+ 主语 + 谓语）!
-                            What useful lessons they are!
-                            3、What + 形容词 + 不可数名词 （+ 主语 + 谓语）!
-                            What clean water it is!
-                            4、省略形容词
-                            What fools!
-                            What a surprise!
-                            What a mess!
-                            What a shame!
-                            What nonsense!
-                        [2]How引导词（后接形容词或副词，也可以修饰强调动词）：
-                            1、How + 形容词/副词 （+ 主语 + 谓语）!
-                            How beautiful she is!
-                            2、How + 形容词 + a/an + 可数名词单数 （+ 主语 + 谓语）!
-                            How kind a teacher she is!
-                            3、How + 主语 + 谓语!（此句型不可省略主谓）
-                            How time flies!
-                            4、修饰强调动词
-                            How dare you!
-        1.1.3、动作时间和动作状态可以进行任意排列组合
-            （1）现在：
-                ① 一般现在时态：兔子吃胡萝卜。
-                    为：动词原形 + s（如果是第三人称单数）
-                ② 现在完成时态：兔子现在已经吃完了胡萝卜。
-                    为：助动词have的变位(have,has) + 动词的过去分词
-                ③ 现在进行时态：兔子现在正在吃胡萝卜。
-                    为：助动词be的变位(be,am,is,are) + 动词的现在分词
-                ④ 现在完成进行时态：兔子现在已经吃完了一些胡萝卜，还要继续吃。
-                    为：助动词have的变位(have,has) + been + 动词的现在分词
-            （2）过去：
-                ① 一般过去时态：兔子过去吃了胡萝卜。
-                    为：动词过去式
-                ② 过去完成时态：兔子昨天下午三点已经吃完了胡萝卜。
-                    为：助动词have的变位(had) + 动词的过去分词
-                ③ 过去进行时态：兔子昨天下午三点正在吃胡萝卜。
-                    为：助动词be的变位(was,were) + 动词的现在分词
-                ④ 过去完成进行时态：兔子昨天下午三点已经吃完了一些胡萝卜，还要继续吃。
-                    为：助动词have的变位(had) + been + 动词的现在分词
-            （3）将来：
-                ① 一般将来时态：兔子将来会吃胡萝卜。
-                    为：will + 动词原形
-                ② 将来完成时态：兔子明天下午三点会已经吃完了胡萝卜。
-                    为：will + have + 动词的过去分词
-                ③ 将来进行时态：兔子明天下午三点会正在吃胡萝卜。
-                    为：will + be + 动词的现在分词
-                ④ 将来完成进行时态：兔子明天下午三点会已经吃完了一些胡萝卜，还要继续吃。
-                    为：will + have + been + 动词的现在分词
-            （4）过去将来：
-                ① 一般过去将来时态：我之前就知道兔子会去吃胡萝卜。
-                    为：
-                        would + 动词原形 
-                    或者：    
-                        助动词be的变位(was,were) + going + to + 动词原型
-                ② 过去将来完成时态：我之前就知道兔子会在明天下午三点会已经吃完了胡萝卜。
-                    为：would + have + 动词的过去分词
-                ③ 过去将来进行时态：我之前就知道兔子会在明天下午三点会正在吃胡萝卜。
-                    为：would + be + 动词的现在分词
-                ④ 过去将来完成进行时态：我之前就知道兔子会在明天下午三点会已经吃完了一些胡萝卜，还要继续吃。
-                    为：would + have + been + 动词的现在分词
-        1.1.4、补充
-            （1）完成以上三种功能并不是谓语动词仅凭本身就可以实现，还是需要用到助动词。
-            （2）动词有原型、第三人称单数、过去式、过去分词、现在分词等五种变位形式，但是助动词或者情态动词并不一定有全部的变位形式。
-            （3）will（过去式would）的主语是第二、三人称，shall（过去式should）的主语是第一人称。
-    1.2、非谓语动词（Non-finite Verb，又称非限定性动词）可以充当除谓语动词外的所有句子成分，取代几乎所有的从句，简化句子，同时其不具备表达时间、状态、语气三种功能。
-        非谓语动词主要有以下四种类型：
-            1.2.1、动词不定式（to + 动词原形）
-            1.2.2、动名词（动词原形 + ing，本质是名词）
-            1.2.3、现在分词（注意，单词形式上与动名词一样，但是二者含义是不一样的！）
-            1.2.4、过去分词（a minced carrot 一个绞碎了的胡萝卜，本质是形容词）
-2、冠词（Article）
-3、介词（Preposition）
-4、名词（Noun）
-5、代词（Pronoun）
-6、数词（Numeral）
-7、形容词（Adjective）
-8、副词（Adverb）
+                            If you went to bed earlier,you would not be so tired now.
+                        [4]表述在过去的与事实相反的条件及其在过去有可能产生的结果：
+                            主句形式：将来完成时/将来完成进行时
+                            if从句形式：过去完成时
+                            If you had studied harder,you would have passed the exam.
+                        [5]表述与现在/过去事实相反的条件及其在过去/现在有可能产生的结果：
+                            1、
+                                主句形式：一般过去将来时
+                                if从句形式：过去完成时
+                                If I had taken that job,I would be a millionaire now.
+                            2、
+                                主句形式：过去将来完成时
+                                if从句形式：一般过去时
+                                If I passed the N1 test,I would have joined the translation team.
+                    ⑥ 感叹语气（Exclamatory Mood）：就是感叹句。
+                        感叹句主要由What和How这两个单词引导：
+                            [1]What引导词（后接名词短语，还有些特殊句子可以省略形容词）：
+                                1、What + a/an + 形容词 + 可数名词单数 （+ 主语 + 谓语）!
+                                What a kind teacher we have!
+                                2、What + 形容词 + 可数名词复数 （+ 主语 + 谓语）!
+                                What useful lessons they are!
+                                3、What + 形容词 + 不可数名词 （+ 主语 + 谓语）!
+                                What clean water it is!
+                                4、省略形容词
+                                What fools!
+                                What a surprise!
+                                What a mess!
+                                What a shame!
+                                What nonsense!
+                            [2]How引导词（后接形容词或副词，也可以修饰强调动词）：
+                                1、How + 形容词/副词 （+ 主语 + 谓语）!
+                                How beautiful she is!
+                                2、How + 形容词 + a/an + 可数名词单数 （+ 主语 + 谓语）!
+                                How kind a teacher she is!
+                                3、How + 主语 + 谓语!（此句型不可省略主谓）
+                                How time flies!
+                                4、修饰强调动词
+                                How dare you!
+            6.2.1.3、动作时间和动作状态可以进行任意排列组合
+                （1）现在：
+                    ① 一般现在时态：兔子吃胡萝卜。
+                        为：动词原形 + s（如果是第三人称单数）
+                    ② 现在完成时态：兔子现在已经吃完了胡萝卜。
+                        为：助动词have的变位(have,has) + 动词的过去分词
+                    ③ 现在进行时态：兔子现在正在吃胡萝卜。
+                        为：助动词be的变位(be,am,is,are) + 动词的现在分词
+                    ④ 现在完成进行时态：兔子现在已经吃完了一些胡萝卜，还要继续吃。
+                        为：助动词have的变位(have,has) + been + 动词的现在分词
+                （2）过去：
+                    ① 一般过去时态：兔子过去吃了胡萝卜。
+                        为：动词过去式
+                    ② 过去完成时态：兔子昨天下午三点已经吃完了胡萝卜。
+                        为：助动词have的变位(had) + 动词的过去分词
+                    ③ 过去进行时态：兔子昨天下午三点正在吃胡萝卜。
+                        为：助动词be的变位(was,were) + 动词的现在分词
+                    ④ 过去完成进行时态：兔子昨天下午三点已经吃完了一些胡萝卜，还要继续吃。
+                        为：助动词have的变位(had) + been + 动词的现在分词
+                （3）将来：
+                    ① 一般将来时态：兔子将来会吃胡萝卜。
+                        为：will + 动词原形
+                    ② 将来完成时态：兔子明天下午三点会已经吃完了胡萝卜。
+                        为：will + have + 动词的过去分词
+                    ③ 将来进行时态：兔子明天下午三点会正在吃胡萝卜。
+                        为：will + be + 动词的现在分词
+                    ④ 将来完成进行时态：兔子明天下午三点会已经吃完了一些胡萝卜，还要继续吃。
+                        为：will + have + been + 动词的现在分词
+                （4）过去将来：
+                    ① 一般过去将来时态：我之前就知道兔子会去吃胡萝卜。
+                        为：
+                            would + 动词原形 
+                        或者：    
+                            助动词be的变位(was,were) + going + to + 动词原型
+                    ② 过去将来完成时态：我之前就知道兔子会在明天下午三点会已经吃完了胡萝卜。
+                        为：would + have + 动词的过去分词
+                    ③ 过去将来进行时态：我之前就知道兔子会在明天下午三点会正在吃胡萝卜。
+                        为：would + be + 动词的现在分词
+                    ④ 过去将来完成进行时态：我之前就知道兔子会在明天下午三点会已经吃完了一些胡萝卜，还要继续吃。
+                        为：would + have + been + 动词的现在分词
+            6.2.1.4、补充
+                （1）完成以上三种功能并不是谓语动词仅凭本身就可以实现，还是需要用到助动词。
+                （2）动词有原型、第三人称单数、过去式、过去分词、现在分词等五种变位形式，但是助动词或者情态动词并不一定有全部的变位形式。
+                （3）will（过去式would）的主语是第二、三人称，shall（过去式should）的主语是第一人称。
+        6.2.2、非谓语动词（Non-finite Verb，又称非限定性动词）可以充当除谓语动词外的所有句子成分，取代几乎所有的从句，简化句子，同时其不具备表达时间、状态、语气三种功能。
+            非谓语动词主要有以下四种类型：
+                6.2.2.1、动词不定式（to + 动词原形）
+                6.2.2.2、动名词（动词原形 + ing，本质是名词）
+                6.2.2.3、现在分词（注意，单词形式上与动名词一样，但是二者含义是不一样的！）
+                6.2.2.4、过去分词（a minced carrot 一个绞碎了的胡萝卜，本质是形容词）
+7、数词（Numeral）
+    数词分为基数词和序数词。
+    7.1、基数词：
+        一  二  三
+        one two three...
+    7.2、序数词：
+        第一     第二    第三
+        first   second  third
+8、介词（Preposition）
+    放在名词或代词前面的词就是介词。
+    in the room
+    on the desk
+    after two days
+    along the road
+    about the topic
+    on monday
+    under the water
+    within three hours
+    outside the house
+    at midnight
 9、连词（Conjunction）
+    连词就是起到连接作用的词，分为两大类，并列连词，从属连词。
+    9.1、并列连词：不分主次先后，连接句子与句子，短语与短语，词与词。
+        and but yet or so
+        I had asked everybody but only two people came.（连接句子与句子）
+        Do you want the good news or the bad news first?（连接短语与短语）
+        She can sing and dance.（连接词与词）
+        She is ill so she is absent.（连接句子与句子）
+    9.2、从属连词：分主次先后，引导从句的连词。
+        （1）在句尾：我们在讨论是否要接纳一些学生进我们俱乐部。（这里的whether）
+            We are talking about whether we admit some students into our club.
+        （2）在句首：让孩子们兴奋的是那场盛大的聚会。（这里的what）
+            What excited the kids was the big party.
+        （3）在句中：和我妈妈聊天的女士给我们带了巧克力蛋糕。（这里的who）
+        T   he lady who is talking with my mother brought us a chocolate cake.
 10、叹词（Interjection）
+    叹词，也就是感叹词，就是一些语气词。
+    Oh! Ah! Hey! 之类的。
 
 二、句子成分
 1、简单句（八大句子成分）：
