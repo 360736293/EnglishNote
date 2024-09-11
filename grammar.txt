@@ -119,7 +119,7 @@
     6.1、按照功能，动词可划分为实义动词、系动词、情态动词、助动词四类。
         （1）实义动词：有实际意义的动词，可以完整的充当句子中的谓语动词，其他三个不能作为谓语动词，他们是非谓语动词。
         （2）系动词：用于连接主语和表语（也就是主语补语，只是中国英语教学称为表语）的动词，表示主语的状态或特征，比如：
-            ① be动词，am，s，are
+            ① be动词，am，is，are
             She is beautiful.
             I am a teacher.
             They are in the room.
@@ -363,7 +363,7 @@
             非谓语动词主要有以下四种类型：
                 6.2.2.1、动词不定式（to + 动词原形）
                 6.2.2.2、动名词（动词原形 + ing，本质是名词）
-                6.2.2.3、现在分词（注意，单词形式上与动名词一样，但是二者含义是不一样的！）
+                6.2.2.3、现在分词（注意，单词形式上与动名词一样，但是动名词本质是名词，现在分词本质是动词！）
                 6.2.2.4、过去分词（a minced carrot 一个绞碎了的胡萝卜，本质是形容词）
 7、数词（Numeral）
     数词分为基数词和序数词。
@@ -426,46 +426,113 @@
         I enjoy working with you.
     （3）双宾语：直接宾语和间接宾语。
         I give him a book.
-4、定语（Attributive）：给宾语下定义。
-5、状语（Adverbial）：表示动作或状态发生的时间、地点、方式、原因、目的、结果、条件、让步、比较、程度、范围、伴随等。
+4、定语（Attributive）：给主语、宾语、表语等句子中的“名词性”成分下定义。
+    4.1、通常翻译成“......的”，用来修饰，限定句子中的名词。
+        修饰：
+            an "interesting" book
+            a "big" box             
+            a "cute" boy
+        限定：
+            Do you know the man "who is talking with my mother"?
+            Please give me the "blue" bag.
+    4.2、定语可以分为前置定语和后置定语两类：
+        4.2.1、前置定语：放在名词前修饰限定名词。
+            She was the "only" person awake at that night.
+            可以充当前置定语的词性有以下几种：
+            （1）形容词作前置定语：所有形容词，只要在句子里面名词的前面修饰名词，就都是前置定语。
+            （2）名词作前置定语：比如，
+                "cotton" goods 棉织品
+                a "ball" pen 圆珠笔
+                a "woman" doctor 女医生
+                a "history" teacher 历史老师
+                a "paper" factory 纸厂
+                a "telephone" number 电话号码
+            （3）代词作前置定语：
+                Have you read "this" newspaper in "my" hand?
+                "These" pens cost twenty dollars.
+            （4）数词作前置定语：
+                "Three" boys are running along the bank.
+                You are the "first" one here.
+            （5）名词所有格作前置定语：
+                这里所有格指的是“所属于......拥有的”的意思，这里的“......”指的是一个名词，既可以指人，也可以指物。
+                He is "my brothers's" teacher.      他是我哥哥的老师。
+                "The house's" windows are broken.   这个房子的窗户破了。
+        4.2.2、后置定语：放在名词后修饰限定名词。
+            She was the only person "awake" at that night.
+            可以充当后置定语的词性有以下几种：
+            （1）形容词作后置定语：所有形容词，只要在句子里面名词的后面修饰限定名词，或者在不定代词的后面修饰限定不定代词，就都是后置定语。
+                There is something "unusual" in her voice.
+                The house "ablaze" is a bar.
+            （2）副词作后置定语：这是副词修饰限定名词的规定，就是要把它放到名词之后。
+                The lady "downstairs" asks us to be quiet after 9 o'clock.
+                这里要翻译成“楼下的女士”，而不是女士在楼下，因为这是副词作后置定语修饰限定名词女士的。
+                We have to get off and take the bus "behind".
+                同理这里要翻译成“后面的公交车”。
+            （3）介词短语作后置定语：
+                The boy "on the bike" is my little brother.
+                He lives in a big house "with a beautiful garden".
+            （4）非谓语动词（动名词，现在分词，过去分词，动词不定式）作后置定语：
+                动名词：
+                    They find a way of "making money".（或者 of making money 介词短语作后置定语）
+                现在分词：
+                    Tell the children "playing outside" not to make too much noise.
+                过去分词：
+                    The boy likes the book "bought by his father".
+                动词不定式：
+                    He is finding a hotel "to live in".
+            （5）定语从句作后置定语：
+                    The little problems "that we meet in our daily lives" may be inspirations for great inventions.
+                    The car "which my uncle had just bought" was destroyd in the earthquake.
+5、状语（Adverbial）：用来修饰描述动作，状态。
     5.1、时间状语：描述动作或状态发生的时间、频率或持续时间。
         She visited her grandmother "yesterday".
     5.2、地点状语：描述动作或状态发生的地点或方向。
         The cat is sleeping "on the sofa".
-    5.3、方式状语：描述动作或状态的方式、方法。
+    5.3、方式状语：描述动作或状态发生的方式、方法。
         She answered the question "politely".
     5.4、原因状语：描述动作或状态发生的原因或理由。
         He stayed home "because he was sick".
-    5.5、目的状语：描述动作或状态的目的或意图。
+    5.5、目的状语：描述动作或状态发生的目的。
         She studies hard "to pass the exam".
     5.6、结果状语：描述动作或状态导致的结果。
         He was so tired "that he fell asleep immediately".
     5.7、条件状语：描述动作或状态发生的条件。
         We will go hiking "if the weather is good".
-    5.8、让步状语：描述动作或状态发生时的让步条件（对立条件）。
+    5.8、让步状语：描述动作或状态发生时的让步条件（让步就是退一步讲，就算怎么怎么地，有虽然、尽管的含义）。
         She went to work "even though she was feeling unwell".
-    5.9、比较状语：描述动作或状态的比较关系。
+        她仍然去工作了尽管她感觉到不舒服。
+    5.9、比较状语：描述动作或状态的比较关系（跟......比起来，主语怎么怎么样）。
         He runs "faster than his brother".
     5.10、程度状语：描述动作或状态的程度或强度。
-        She is "very talented".
-    5.11、范围状语：描述动作或状态的适用范围。
+        I like coffee "very much".
+    5.11、方面状语：描述动作或状态发生的范围或方面。
         The rule applies "in most cases".
-    5.12、伴随状语：描述动作或状态发生时的伴随情况或方式。
+        China is very rich "in natural resources".
+        The bridge is 2500 meters "in length".
+    5.12、伴随状语：描述动作或状态发生时伴随着的一个动作或状态。
         She walked into the room "with a smile".
+    5.13、频度状语：描述动作或状态发生的频率、频度。
+        I "often" eat at this restaurant.
+    5.14、可能性状语：描述动作或状态发生的可能性。
+        The driver "probably" knows the quickest route.
+    5.15、评注性状语：评价整个句子，评价所讲的事是好还是坏。
+        "Fortunately",he caught the first bus.
+    5.16、连接性状语：在语意上连接两个句子，使上下文衔接通顺。
+        They ate a seven-course meal,"in addition",they drank three bottles of wine.
     注意：状语在一个句子中是可以连用的。
         She sings beautifully in the morning at the park for her fans.
     这句中就有三个时间状语连用。
         （1）时间状语：in the morning（在早上）
         （2）地点状语：at the park（在公园）
         （3）目的状语：for her fans（为了她的粉丝）
-6、宾语补语/补语（Object Complement）:对宾语状态补充说明。
-7、主语补语/表语（Subject Complement）：表示主语的状态、身份、特征等。
-8、同位语（Appositive）:解释说明宾语。
+6、宾语补语/补语（Object Complement）:
+7、主语补语/表语（Subject Complement）：
+8、同位语（Appositive）:
 9、八种句子成分合用总例句：
     I     saw the black pig  BaJie flying (on the train) and  he was fat.
     主语  谓语     定语  宾语 同位语 补语    状语               主语    表语
 
-三、五种基本句型
+三、五种基本句型（额外补充There be句型）
 1、可以独立完成的动作。
     主语 + 谓语。也就是一、6.2.1.1（1）不及物动词用法。
     He smiled.
@@ -481,5 +548,11 @@
 5、非“动作”，描述主语的特征。
     主语 + 系动词 + 主语补语/表语。
     She is clever.
+6、补充一个There be句型，表示“存在”或“有”的常用句型。
+    There be + 某物/人 + 某地/时‌，表示某地/时有某物/人。
+    There is a book on the desk.
+    There are some flowers in the garden.
+    There was a party last night. 
+    There were many people at the party last night.
 
 四、从句
