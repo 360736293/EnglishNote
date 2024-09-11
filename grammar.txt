@@ -538,7 +538,11 @@
     He is "a teacher".
     These desks are "yellow".
     She is "in the classroom".
-8、同位语（Appositive）:
+8、同位语（Appositive）：处于同等地位。
+    两个东西，可能是词或者词组，指同一个人或物，后者解释说明前者，后者就叫前者的同位语。
+    Mr.Smith,"our new teacher",is very kind to us.
+    We "Chinese people" are brave and hard-working.
+    Some vegetables for instance,"tomatoes" can help cure certain diseases.
 
 三、五种基本句型（额外补充There be句型）
 1、可以独立完成的动作。
