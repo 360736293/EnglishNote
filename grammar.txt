@@ -405,9 +405,9 @@
     Oh! Ah! Hey! 之类的。
 
 二、八大句子成分
-1、主语（Subject）
+1、主语（Subject）：动作的发出者。
     动作的发出者就是主语，可以是人或物。
-2、谓语（Predicate）
+2、谓语（Predicate）：动作。
     谓语的本质就是动词，只是在词性上算动词，在句子成分上算谓语。它用来表示主语做什么事儿，或者说明主语是怎么怎么样。
     谓语可分为简单谓语，复合谓语：
     （1）简单谓语：单个动词
@@ -417,7 +417,7 @@
         She will go to school tomorrow.
         I can speak englsh.
     注意：在无任何连词的情况下，一个英语句子只能有一个谓语！其他的动词考虑是非谓语动词。
-3、宾语（Object）
+3、宾语（Object）：动作的承受者。
     动作的承受者就是宾语，可以是人或物。
     宾语分为动词宾语，介词宾语，双宾语。
     （1）动词宾语：动词后面的宾语。
@@ -426,22 +426,44 @@
         I enjoy working with you.
     （3）双宾语：直接宾语和间接宾语。
         I give him a book.
-4、定语（Attributive）
-5、状语（Adverbial）
-6、宾语补语/补语（Object Complement）
-7、主语补语/表语（Subject Complement）
-8、同位语（Appositive）
-总例句：
+4、定语（Attributive）：给宾语下定义。
+5、状语（Adverbial）：表示动作或状态发生的时间、地点、方式、原因、目的、结果、条件、让步、比较、程度、范围、伴随等。
+    5.1、时间状语：描述动作或状态发生的时间、频率或持续时间。
+        She visited her grandmother "yesterday".
+    5.2、地点状语：描述动作或状态发生的地点或方向。
+        The cat is sleeping "on the sofa".
+    5.3、方式状语：描述动作或状态的方式、方法。
+        She answered the question "politely".
+    5.4、原因状语：描述动作或状态发生的原因或理由。
+        He stayed home "because he was sick".
+    5.5、目的状语：描述动作或状态的目的或意图。
+        She studies hard "to pass the exam".
+    5.6、结果状语：描述动作或状态导致的结果。
+        He was so tired "that he fell asleep immediately".
+    5.7、条件状语：描述动作或状态发生的条件。
+        We will go hiking "if the weather is good".
+    5.8、让步状语：描述动作或状态发生时的让步条件（对立条件）。
+        She went to work "even though she was feeling unwell".
+    5.9、比较状语：描述动作或状态的比较关系。
+        He runs "faster than his brother".
+    5.10、程度状语：描述动作或状态的程度或强度。
+        She is "very talented".
+    5.11、范围状语：描述动作或状态的适用范围。
+        The rule applies "in most cases".
+    5.12、伴随状语：描述动作或状态发生时的伴随情况或方式。
+        She walked into the room "with a smile".
+    注意：状语在一个句子中是可以连用的。
+        She sings beautifully in the morning at the park for her fans.
+    这句中就有三个时间状语连用。
+        （1）时间状语：in the morning（在早上）
+        （2）地点状语：at the park（在公园）
+        （3）目的状语：for her fans（为了她的粉丝）
+6、宾语补语/补语（Object Complement）:对宾语状态补充说明。
+7、主语补语/表语（Subject Complement）：表示主语的状态、身份、特征等。
+8、同位语（Appositive）:解释说明宾语。
+9、八种句子成分合用总例句：
     I     saw the black pig  BaJie flying (on the train) and  he was fat.
     主语  谓语     定语  宾语 同位语 补语    状语               主语    表语
-主语：动作的发出者。
-谓语：动作。
-定语：给宾语下定义。
-宾语：动作的承受者。
-同位语：解释说明宾语。
-补语：对宾语状态补充说明。
-状语：动作发生的时间、地点等。
-表语：表示主语的状态、身份、特征等。
 
 三、五种基本句型
 1、可以独立完成的动作。
