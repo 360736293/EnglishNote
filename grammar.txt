@@ -119,20 +119,20 @@
     6.1、按照功能，动词可划分为实义动词、系动词、情态动词、助动词四类。
         （1）实义动词：有实际意义的动词，可以完整的充当句子中的谓语动词，其他三个不能作为谓语动词，他们是非谓语动词。
         （2）系动词：用于连接主语和表语（也就是主语补语，只是中国英语教学称为表语）的动词，表示主语的状态或特征，比如：
-            ① be动词，am，is，are
-            She is beautiful.
-            I am a teacher.
-            They are in the room.
-            ② 感官，feel，smell，sound，taste，look
-            Dinner smells good.
-            ③ 保持...，keep，remain，stay，stand，lie
-            The girl keeps silent.
-            ④ 变得...，become，go，turn，grow，fall
-            She becomes a teacher.
-            ⑤ 结果是，证明是，prove，turn out
-            The rumor proved false.
-            ⑥ 看起来像，seem，appear
-            He seems very sad.
+            ① 状态系动词：表示主语的状态，特征是什么。be动词，am，is，are
+                She is beautiful.
+                I am a teacher.
+                They are in the room.
+            ② 感官系动词：感官就是听起来、闻起来、看起来等。feel，smell，sound，taste，look
+                Dinner smells good.
+            ③ 持续系动词：表示主语持续保持某一种状态。keep，remain，stay，stand，lie
+                The girl keeps silent.
+            ④ 变化系动词：表示主语变成什么样了。become，go，turn，grow，fall
+                She becomes a teacher.
+            ⑤ 终止系动词：表示主语最终的状态是什么样。prove，turn out
+                The rumor proved false.
+            ⑥ 表象系动词：用来表示“看起来像”这一概念。seem，appear
+                He seems very sad.
         （3）情态动词：表示说话人对动作或状态的看法、态度或意愿，如can（过去式could）、may（过去式might）、must、need、shall（过去式should，用于主语第一人称）、will（过去式would，用于主语第二、第三人称）、ought to、dare等，用来表达某种情绪或态度，协助主要动词一起构成谓语‌。
             I can speak English.
             She will come to see us.
@@ -525,12 +525,20 @@
         （1）时间状语：in the morning（在早上）
         （2）地点状语：at the park（在公园）
         （3）目的状语：for her fans（为了她的粉丝）
-6、宾语补语/补语（Object Complement）:
-7、主语补语/表语（Subject Complement）：
+6、补语（Object Complement）:补充说明前文的动作。
+    特定情况下，如果没有补语，这个动作表达的意思就不完整，句子将无意义，所以必须要有补语，这也是跟状语的区别，状语缺失了也不影响句子本身的成立。
+    补语可分为：
+    （1）宾语补足语
+        Father will not allow us "to play on the street".
+        这里作为“宾语补足语”，是补充说明前文的allow，不然就不知道allow的具体是什么东西。
+    （2）主语补足语
+        We are not allowed to play on the street.
+        这里作为“主语补足语”，也是补充说明not allowed。
+7、表语（Subject Complement）：表示主语的特征、性质或状态。
+    He is "a teacher".
+    These desks are "yellow".
+    She is "in the classroom".
 8、同位语（Appositive）:
-9、八种句子成分合用总例句：
-    I     saw the black pig  BaJie flying (on the train) and  he was fat.
-    主语  谓语     定语  宾语 同位语 补语    状语               主语    表语
 
 三、五种基本句型（额外补充There be句型）
 1、可以独立完成的动作。
