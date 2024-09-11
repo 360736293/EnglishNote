@@ -364,7 +364,7 @@
         6.2.2、非谓语动词（Non-finite Verb，又称非限定性动词）可以充当除谓语动词外的所有句子成分，取代几乎所有的从句，简化句子，同时其不具备表达时间、状态、语气三种功能。
             非谓语动词主要有以下四种类型：
                 6.2.2.1、动词不定式（to + 动词原形）
-                6.2.2.2、动名词（动词原形 + ing，本质是名词）
+                6.2.2.2、动名词/动名词短语（动词原形 + ing，本质是名词）
                 6.2.2.3、现在分词（注意，单词形式上与动名词一样，但是动名词本质是名词，现在分词本质是动词！）
                 6.2.2.4、过去分词（a minced carrot 一个绞碎了的胡萝卜，本质是形容词）
 7、数词（Numeral）
@@ -473,9 +473,9 @@
             （3）介词短语作后置定语：
                 The boy "on the bike" is my little brother.
                 He lives in a big house "with a beautiful garden".
-            （4）非谓语动词（动名词，现在分词，过去分词，动词不定式）作后置定语：
-                动名词：
-                    They find a way of "making money".（或者 of making money 介词短语作后置定语）
+            （4）非谓语动词（动名词/动名词短语，现在分词，过去分词，动词不定式）作后置定语：
+                动名词/动名词短语：
+                    They find a way of "running/making money".（或者 of running/of making money 介词短语作后置定语）
                 现在分词：
                     Tell the children "playing outside" not to make too much noise.
                 过去分词：
