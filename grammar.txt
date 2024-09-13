@@ -406,9 +406,16 @@
     叹词，也就是感叹词，就是一些语气词。
     Oh! Ah! Hey! 之类的。
 
-二、八大句子成分
-1、主语（Subject）：动作的发出者。
-    动作的发出者就是主语，可以是人或物。
+二、八大句子成分（每个成分既可以是单词，也可以是词组）
+1、主语（Subject）：句子中围绕着说明的主体。
+    可以是人或物，注意！主语不一定是动作的发出者！被动语态中主语就是动作的承受者！此时是没有宾语的，by sb是作为主语补足语来说的。
+    （1）it作形式主语
+        "To learn English well" is important.
+        英语中不喜欢主语太长，会把主语往后提，但是会出现前面主语为空情形，而英语比较注重形式，所以会出现一个形式主语it，如下
+        It is important to learn English well.
+        这时主语依然是to learn English well，It只是形式主语是没有任何含义的，不用翻译。
+    （2）there作形式主语
+        There be句型。
 2、谓语（Predicate）：动作。
     谓语的本质就是动词，只是在词性上算动词，在句子成分上算谓语。它用来表示主语做什么事儿，或者说明主语是怎么怎么样。
     谓语可分为简单谓语，复合谓语：
@@ -534,12 +541,15 @@
         Father will not allow us "to play on the street".
         这里作为“宾语补足语”，是补充说明前文的allow，不然就不知道allow的具体是什么东西。
     （2）主语补足语
-        We are not allowed to play on the street.
+        We are not allowed "to play on the street".
         这里作为“主语补足语”，也是补充说明not allowed。
 7、表语（Subject Complement）：表示主语的特征、性质或状态。
     He is "a teacher".
     These desks are "yellow".
     She is "in the classroom".
+    表语与主语补足语的区别是：
+    （1）主语补足语‌在被动语态的句子中，位于动词之后，用来补充说明主语，描述主语的身份、性质、状态等，如He was called "Oliver",或者We are not allowed "to play on the street"。
+    ‌（2）表语‌位于系动词之后，用来描述主语的性质或状态，说明主语“是什么”或“怎么样”，如This is "a book"。
 8、同位语（Appositive）：处于同等地位。
     两个东西，可能是词或者词组，指同一个人或物，后者解释说明前者，后者就叫前者的同位语。
     Mr.Smith,"our new teacher",is very kind to us.
@@ -548,7 +558,7 @@
 
 三、五种基本句型（额外补充There be句型）
 1、可以独立完成的动作。
-    主语 + 谓语。也就是一、6.2.1.1（1）不及物动词用法。
+    主语 + 谓语。也就是一、6.2.1.1（1）不及物动词用法。（注意被动语态也是主谓结构，但是谓语是及物动词）
     He smiled.
 2、有1个动作的承受者。
     主语 + 谓语 + 宾语。也就是一、6.2.1.1（2）单及物动词（单宾动词）用法。
@@ -557,12 +567,12 @@
     主语 + 谓语 + 间接宾语 + 直接宾语。也就是一、6.2.1.1（3）双及物动词（双宾动词）用法。
     I give him a book.
 4、只有1个动作承受者（但需要补充）。
-    主语 + 谓语 + 宾语 + 宾语补语/补语。也就是一、6.2.1.1（4）复杂及物动词用法。
+    主语 + 谓语 + 宾语 + 宾语补足语。也就是一、6.2.1.1（4）复杂及物动词用法。
     He makes me happy.
 5、非“动作”，描述主语的特征。
-    主语 + 系动词 + 主语补语/表语。
+    主语 + 系动词 + 表语。
     She is clever.
-6、补充一个There be句型，表示“存在”或“有”的常用句型。
+6、补充一个There be句型，表示“存在”或“有”的常用句型。（实际上也是第一种的主谓结构，这里的There是形式主语，真正的主语在后面）
     There be + 某物/人 + 某地/时‌，表示某地/时有某物/人。
     There is a book on the desk.
     There are some flowers in the garden.
@@ -570,3 +580,43 @@
     There were many people at the party last night.
 
 四、从句
+1、什么是从句？
+    （1）从句是一个句子，要满足五种基本句型之一。
+    （2）从句是主句包含的一个小句子，充当主句中的一个句子成分。
+    （3）从句可以出现在主句中的任何一个位置，一个从句在句子中作什么成分，就叫什么从句。
+2、英语为什么会有从句？
+    任何语言都会有类似从句的概念，比如汉语只要说了一个谁做了什么事就是一个句子，但是很多时候我们不可能只在一个句子中只说一个谁做了什么事，那么多的那些势必就会变成从句。
+    比如：我看见谁谁做什么了。
+    这里的谁谁做什么了就是一个从句。
+3、怎样判断从句？
+    （1）所有的从句一定是以“从属连词”开头，但是有时这个从属连词会被省略，但是这不代表可以没有，只是为了句子的间接而省略了。
+    （2）从句本身作为一个句子，一定是要有谓语动词的。
+    也就是同时有“从属连词”，“谓语动词”才是从句。
+    即：从属连词 + 谓语动词 = 从句
+4、从句分类有哪些？
+    从句可以充当除了“谓语”以外的其他七个句子成分。
+    先从句子成分上分类，然后从词性上分类：
+    4.1、名词性从句，共用一套从属连词。
+        （1）主语从句
+            "Who will do the job" hasn't been decided.
+            "Where he was" confused me.
+        （2）宾语从句
+            Then I realized "that I loved my parents so much".
+            She wanted to know "where he was".
+        （3）表语从句
+            The question is "when we will open for business".
+            Her question was "where he was".
+        （4）同位语从句
+            Just do it on the assumption "that you will succeed".
+            The woman neglected the question "where he was".
+        （5）补语从句
+            She makes me "what I am today".
+            His arrogance left him "where he was".
+    4.2、形容词性从句，单独用一套从属连词。
+        （1）定语从句
+            I will go back to the village "where I grew up".
+            He decided to stay at the place "where he was".
+    4.3、副词性从句，单独用一套从属连词。
+        （1）状语从句
+            We will start our project "if the president agrees".
+            He decided to stay "where he was".
