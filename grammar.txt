@@ -618,5 +618,22 @@
             He decided to stay at the place "where he was".
     4.3、副词性从句，单独用一套从属连词。
         （1）状语从句
-            We will start our project "if the president agrees".
-            He decided to stay "where he was".
+            ① 时间状语从句
+                Call me "when you arrive at the airport".
+            ② 地点状语从句
+                Generally,air will be heavily polluted "where there are factories".
+            ③ 原因状语从句
+                She did not come to school "because she was ill".
+            ④ 结果状语从句
+                He got up so early "that he caught the first bus".
+            ⑤ 条件状语从句
+                "If you ask him",he will help you.
+            ⑥ 目的状语从句
+                You must speak louder "so that you can be heard by all".
+            ⑦ 让步状语从句
+                The old man always enjoys swimming "even if the weather is rough".
+            ⑧ 比较状语从句
+                She is taller this year "than (she was) last year".
+                这里的she was可以省略，但是它们仍然是存在的。
+            ⑨ 方式状语从句
+                She behaved as "if she was the boss".
