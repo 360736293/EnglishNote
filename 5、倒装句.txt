@@ -9,7 +9,7 @@
     （1）强调句首的部分。
         "Here" comes the teacher.
         "Never" will I forget you.
-        "Ugly" though I am,I am gentle.
+        "Ugly" as/though I am,I am gentle.
     （2）平衡句子结构。
         英语不喜欢头重脚轻，当一个主语太长时就会长长的主语往后移，其他成分就会往前提。
         倒：Then came "the hour we had been looking forward to".
@@ -123,7 +123,45 @@
             So "loudly" did he speak that even people in the next room could hear him.
             Such "a good job" did I get that I couldn't help laughing.
         3.2.5、在虚拟语气条件句中，were，had，should移到主语之前，成为部分倒装。
-            If I were you,I would go with her.
+            虚拟语气的部分倒装并不是为了强调什么，仅仅只是为了让句子更简洁。
+            If I were you,I would go with her. -> Were I you,I would go with her.
+        3.2.6、May开头表示祝愿。
+            仅了解。
+            May you return soon.
     3.3、形式倒装：把表语拿到主语之前。
         倒：Ugly though I am,I am gentle. 表 + 状 + 主 + 系，主 + 谓 + 宾
         陈：Though I am ugly,I am gentle. 状 + 主 + 系 + 表，主 + 谓 + 宾
+        3.3.1、as/though引导的让步状语从句。
+            倒："Ugly" as/though I am,I am gentle.
+            陈：Though I am,I am gentle.（这里不能用as开头了，因为as没有虽然，尽管的意思）
+            这个句式前面能强调名词，形容词，副词，动词，分词
+            即，名词/形容词/副词/动词/分词 + as/though + 主 + 其他.
+            名词：
+                倒：Child as/though he is,he has to make a living.
+                陈：Though he is a child,he has to make a living.
+            副词：
+                倒：Much as I like him,I admit he has many shortcomings.
+                陈：Though I like him much,I admit he has many shortcomings.
+            动词：
+                倒：Try as/though I might,I could not lift the box.
+                陈：Though I might try,I could not lift the box.
+            分词：
+                倒：Raning hard as/though it is,I am going out for a walk.
+                陈：Though it is raining hard,I am going out for a walk.
+        3.3.2、however，whatever引导的让步状语从句。
+            这里的倒装句是不能还原成陈述句的。
+            （1）However + 形容词 + 主语 + 谓语 + 主句.
+                However difficult the problem may be,we must working it out this evening.
+            （2）Whatever + 名词 + 主语 + 谓语 + 主句.
+                Whatever reasons you have,you should carry out your promise.
+        3.3.3、感叹句。
+            这里的倒装句是不能还原成陈述句的。
+            （1）How + 形容词 + 主语 + 谓语.
+                How interesting their talk is!
+            （2）What + 名词/名词短语 + 主语 + 谓语.
+                What an interesting talk they did!
+        3.3.4、the + 比较级，the + 比较级。
+            这里的倒装句是不能还原成陈述句的。
+            The + 比较级 + 主语 + 谓语，the + 比较级 + 主语 + 谓语.
+            The more you listen to English,the easier it becomes.
+            The harder you work,the greater progress you will make.
