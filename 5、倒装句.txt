@@ -1,0 +1,129 @@
+倒装句
+1、什么是倒装句？
+    陈述：
+        The teacher comes here. 主 + 谓 + 地点状语
+    倒装：
+        跟陈述相对，在陈述语序下，本应该放在后面的句子成分被拿到前面去了，就是倒装。
+        比如，Here comes the teacher. 地点状语 + 谓 + 主
+2、为什么要有倒装句？
+    （1）强调句首的部分。
+        "Here" comes the teacher.
+        "Never" will I forget you.
+        "Ugly" though I am,I am gentle.
+    （2）平衡句子结构。
+        英语不喜欢头重脚轻，当一个主语太长时就会长长的主语往后移，其他成分就会往前提。
+        倒：Then came "the hour we had been looking forward to".
+        陈："The hour we had been looking forward to" came then.
+3、倒装句的三种形式。
+    3.1、全部倒装（完全倒装）：整个谓语都拿到主语之前。
+        全部倒装 = 某些句子成分 + 谓 + 主
+        倒：Here comes the teacher. 状 + 谓 + 主
+        陈：The teacher comes here. 主 + 谓 + 状
+        全部倒装必须要满足一下要求：
+            （1）谓语动词为不及物动词。
+            （2）主语必须是名词，不能是代词。
+        注意如果主语非要是代词，则主谓语序不变：
+            对：Here you are.       错：Here are you.
+            对：There she comes.    错：There comes she.
+        3.1.1、There be 句型。
+            There be + 某物/人 + 某地/时‌，表示某地/时有某物/人。
+            There is a book on the desk.
+            There are some flowers in the garden.
+            There was a party last night. 
+            There were many people at the party last night.
+            倒：There is sth.   
+            陈：Sth. is there.
+            同样，如果主语是人称代词，则主谓语序不变。
+            对：There you are.      错：There are you.
+        3.1.2、here，there，now，then，next位于句首。
+            谓语动词多为be，lie，come，go等表示存在去向的词。
+            Here comes the old lady!
+            There goes the bell.
+            Then came the hour we had been looking forward to.
+            Now comes your turn.
+            Next comes your turn.
+            同样，如果主语是人称代词，则主谓语序不变。
+            对：Here you are.       错：Here are you.
+            对：There she comes.    错：There comes she.
+        3.1.3、out，in，up，down位于句首。
+            谓语动词为come，go，rush，run，walk等表示去向的词。
+            In came Mr.White.
+            Out rushed the girl.
+            Up went the arrow into the air.
+            Away went the boy.
+            同样，如果主语是人称代词，则主谓语序不变。
+            In he came.
+            Out she rushed.
+        3.1.4、表示地点的介词词组位于句首。
+            谓语动词为be，lie，stand，sit，stop等表示存在状态的词。
+            "At the foot of the hill" lies a beautiful lake.
+            "East of the lake" lie two towns.
+            "Under the tree" sat a wounded soldier.
+            同样，如果主语是人称代词，则主谓语序不变。
+            Under the tree he sat.
+        3.1.5、表语位于句首。
+            系动词均为be动词，主语必须为名词，不可为代词。
+            （1）表语为介词短语
+               "Among the goods" are Christmas trees,flower,candles,and toys.
+            （2）表语为形容词
+                "Present at the meeting" were Mr.White and many other guests.
+            （3）表语为过去分词
+                "Seated on the ground" are a group of young people.
+            （4）表语为表示进行时态的现在分词
+                "Lying on the floor" was a boy.
+                "Standing beside the desk" was a teacher.
+            （5）表语为Such
+                "Such" were her words.
+                "Such" was what she said.
+            （6）表示祝愿
+                "Long" live Chairman Mao.
+    3.2、部分倒装（不完全倒装/半倒装）：仅仅只把谓语中的助动词拿到主语之前，实义动词还在主语之后。
+        部分倒装 = 某些句子成分 + 助动词 + 主 + 实义动词（部分倒装几乎都是为了强调放在句子句首的成分）
+        倒：Never will I forget you. 状 + 助动词 + 主 + 谓 + 宾
+        陈：I will never forget you. 主 + 助动词 + 状 + 谓 + 宾
+        3.2.1、so,neither/nor + 助动词 + 主。（强调也是，或也不是）
+            He has been to Beijing.So have I (been to Beijing).
+            Tom can't answer the question.Neither/Nor can I (answer the question).
+            没有明显的助动词，加一个do的变形。
+            I love English and so does my sister.
+            正常来说后面的谓语应该与前面一致，但是如果前面的是两个谓语，那么
+            She "is" a teacher and "works" at the college."So it is with" Li Ming.或者"It is the same with" Li Ming.
+            正常来说前面谓语表肯定后面用so，前面谓语表否定后面用neither或nor，但是如果前面谓语既有肯定又有否定，那么
+            She "isn't" a teacher but she "works" at the college."So it is with" Li Ming.或者"It is the same with" Li Ming.
+        3.2.2、否定词或半否定词 + 助动词 + 主语 + 实义动词。
+            否定词或半否定词：never，little，seldom，rarely，hardly，by no means，in no way，in no case，under no circumstance，at no time.
+            "Little" does she know about French.
+            "Seldom" have I met Mr.Green in the campus.
+            "At no time" will I hurt her.
+            "By no means" can you smoke here.
+            （1）Not until + 时间词/时间状语从句 + 助动词 + 主语 + 实义动词 + 其他成分。
+                倒：Not until she read the letter did she know the fact.
+                陈：She did not know the fact until she read the letter.
+                倒：Not until he fails the exam will he realize the importance of studying.
+                陈：He won't realize the importance of studying until he fails the exam.
+            （2）一....就...。
+                倒：No sooner had sb. done A than B.
+                陈：Sb. had no sooner done A than B.
+            （3）刚...就...。
+                倒：Hardly/Scarcely had sb. done A when B.
+                陈：Sb. had hardly/scarcely done A when B.
+            （4）不仅...而且...
+                Not only + 分句（部分倒装）,but also + 分句（不到装）.
+                Not only does she play sports well,but also she is good at studying.
+        3.2.3、Only + 状语（副词/介词短语/状语从句）位于句首。
+            Only + 状语 + 助动词 + 主语 + 实义动词 + 其他成分.
+            副词作状语
+            Only then did I realize the importance of math.
+            介词短语作状语
+            Only by this means is it possible to explain it.
+            状语从句
+            Only when the war was over in 1918 was he able to get happily back to work.
+        3.2.4、so/such引导的短语放在句首。
+            So/Such + 形容词/副词/名词 + 助动词 + 主语 + 实义动词 + that从句.
+            So "loudly" did he speak that even people in the next room could hear him.
+            Such "a good job" did I get that I couldn't help laughing.
+        3.2.5、在虚拟语气条件句中，were，had，should移到主语之前，成为部分倒装。
+            If I were you,I would go with her.
+    3.3、形式倒装：把表语拿到主语之前。
+        倒：Ugly though I am,I am gentle. 表 + 状 + 主 + 系，主 + 谓 + 宾
+        陈：Though I am ugly,I am gentle. 状 + 主 + 系 + 表，主 + 谓 + 宾

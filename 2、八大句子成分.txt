@@ -1,0 +1,157 @@
+八大句子成分（每个成分既可以是单词，也可以是词组）
+1、主语（Subject）：句子中围绕着说明的主体。
+    主语由名词、代词、数词、名词词组、代词词组、数词词组、主语从句来充当。
+    可以是人或物，注意！主语不一定是动作的发出者！被动语态中主语就是动作的承受者！此时是没有宾语的，by sb是作为主语补足语来说的。
+    （1）it作形式主语
+        "To learn English well" is important.
+        英语中不喜欢主语太长，会把主语往后提，但是会出现前面主语为空情形，而英语比较注重形式，所以会出现一个形式主语it，如下
+        It is important to learn English well.
+        这时主语依然是to learn English well，It只是形式主语是没有任何含义的，不用翻译。
+    （2）there作形式主语
+        There be句型。
+2、谓语（Predicate）：动作。
+    谓语由动词充当。
+    谓语的本质就是动词，只是在词性上算动词，在句子成分上算谓语。它用来表示主语做什么事儿，或者说明主语是怎么怎么样。
+    谓语可分为简单谓语，复合谓语：
+    （1）简单谓语：单个动词
+        I read books everyday.
+        The purse is expensive.
+    （2）复合谓语：助动词 + 动词的某种变形
+        She will go to school tomorrow.
+        I can speak englsh.
+    注意：在无任何连词的情况下，一个英语句子只能有一个谓语！其他的动词考虑是非谓语动词。
+3、宾语（Object）：动作的承受者。
+    宾语由名词、代词、数词、名词化的形容词（详情看上面形容词词性）、动名词、宾语从句来充当。
+    动作的承受者就是宾语，可以是人或物。
+    宾语分为动词宾语，介词宾语，双宾语。
+    （1）动词宾语：动词后面的宾语。
+        I like you.
+    （2）介词宾语：介词后面的宾语。
+        I enjoy working with you.
+    （3）双宾语：直接宾语和间接宾语。
+        I give him a book.
+4、定语（Attributive）：给主语、宾语、表语等句子中的“名词性”成分下定义。
+    定语由形容词、名词、代词、数词、介词短语、动词不定式（短语）、现在分词/过去分词、定语从句来充当。
+    4.1、通常翻译成“......的”，用来修饰，限定句子中的名词。
+        修饰：
+            an "interesting" book
+            a "big" box             
+            a "cute" boy
+        限定：
+            Do you know the man "who is talking with my mother"?
+            Please give me the "blue" bag.
+    4.2、定语可以分为前置定语和后置定语两类：
+        4.2.1、前置定语：放在名词前修饰限定名词。
+            She was the "only" person awake at that night.
+            可以充当前置定语的词性有以下几种：
+            （1）形容词作前置定语：所有形容词，只要在句子里面名词的前面修饰名词，就都是前置定语。
+            （2）名词作前置定语：比如，
+                "cotton" goods 棉织品
+                a "ball" pen 圆珠笔
+                a "woman" doctor 女医生
+                a "history" teacher 历史老师
+                a "paper" factory 纸厂
+                a "telephone" number 电话号码
+            （3）代词作前置定语：
+                Have you read "this" newspaper in "my" hand?
+                "These" pens cost twenty dollars.
+            （4）数词作前置定语：
+                "Three" boys are running along the bank.
+                You are the "first" one here.
+            （5）名词所有格作前置定语：
+                这里所有格指的是“所属于......拥有的”的意思，这里的“......”指的是一个名词，既可以指人，也可以指物。
+                He is "my brothers's" teacher.      他是我哥哥的老师。
+                "The house's" windows are broken.   这个房子的窗户破了。
+        4.2.2、后置定语：放在名词后修饰限定名词。
+            She was the only person "awake" at that night.
+            可以充当后置定语的词性有以下几种：
+            （1）形容词作后置定语：所有形容词，只要在句子里面名词的后面修饰限定名词，或者在不定代词的后面修饰限定不定代词，就都是后置定语。
+                There is something "unusual" in her voice.
+                The house "ablaze" is a bar.
+            （2）副词作后置定语：这是副词修饰限定名词的规定，就是要把它放到名词之后。
+                The lady "downstairs" asks us to be quiet after 9 o'clock.
+                这里要翻译成“楼下的女士”，而不是女士在楼下，因为这是副词作后置定语修饰限定名词女士的。
+                We have to get off and take the bus "behind".
+                同理这里要翻译成“后面的公交车”。
+            （3）介词短语作后置定语：
+                The boy "on the bike" is my little brother.
+                He lives in a big house "with a beautiful garden".
+            （4）非谓语动词（动名词/动名词短语，现在分词，过去分词，动词不定式）作后置定语：
+                动名词/动名词短语：
+                    They find a way of "running/making money".（或者 of running/of making money 介词短语作后置定语）
+                现在分词：
+                    Tell the children "playing outside" not to make too much noise.
+                过去分词：
+                    The boy likes the book "bought by his father".
+                动词不定式：
+                    He is finding a hotel "to live in".
+            （5）定语从句作后置定语：
+                    The little problems "that we meet in our daily lives" may be inspirations for great inventions.
+                    The car "which my uncle had just bought" was destroyd in the earthquake.
+5、状语（Adverbial）：用来修饰描述动作，状态。
+    状语由副词、介词短语、现在分词/过去分词、动词不定式、状语从句来充当。
+    5.1、时间状语：描述动作或状态发生的时间、频率或持续时间。
+        She visited her grandmother "yesterday".
+    5.2、地点状语：描述动作或状态发生的地点或方向。
+        The cat is sleeping "on the sofa".
+    5.3、方式状语：描述动作或状态发生的方式、方法。
+        She answered the question "politely".
+    5.4、原因状语：描述动作或状态发生的原因或理由。
+        He stayed home "because he was sick".
+    5.5、目的状语：描述动作或状态发生的目的。
+        She studies hard "to pass the exam".
+    5.6、结果状语：描述动作或状态导致的结果。
+        He was so tired "that he fell asleep immediately".
+    5.7、条件状语：描述动作或状态发生的条件。
+        We will go hiking "if the weather is good".
+    5.8、让步状语：描述动作或状态发生时的让步条件（让步就是退一步讲，就算怎么怎么地，有虽然、尽管的含义）。
+        She went to work "even though she was feeling unwell".
+        她仍然去工作了尽管她感觉到不舒服。
+    5.9、比较状语：描述动作或状态的比较关系（跟......比起来，主语怎么怎么样）。
+        He runs "faster than his brother".
+    5.10、程度状语：描述动作或状态的程度或强度。
+        I like coffee "very much".
+    5.11、方面状语：描述动作或状态发生的范围或方面。
+        The rule applies "in most cases".
+        China is very rich "in natural resources".
+        The bridge is 2500 meters "in length".
+    5.12、伴随状语：描述动作或状态发生时伴随着的一个动作或状态。
+        She walked into the room "with a smile".
+    5.13、频度状语：描述动作或状态发生的频率、频度。
+        I "often" eat at this restaurant.
+    5.14、可能性状语：描述动作或状态发生的可能性。
+        The driver "probably" knows the quickest route.
+    5.15、评注性状语：评价整个句子，评价所讲的事是好还是坏。
+        "Fortunately",he caught the first bus.
+    5.16、连接性状语：在语意上连接两个句子，使上下文衔接通顺。
+        They ate a seven-course meal,"in addition",they drank three bottles of wine.
+    注意：状语在一个句子中是可以连用的。
+        She sings beautifully in the morning at the park for her fans.
+    这句中就有三个时间状语连用。
+        （1）时间状语：in the morning（在早上）
+        （2）地点状语：at the park（在公园）
+        （3）目的状语：for her fans（为了她的粉丝）
+6、补语（Object Complement）:补充说明前文的动作。
+    补语由名词、形容词、副词、动词不定式、现在分词、过去分词、补语从句来充当。
+    特定情况下，如果没有补语，这个动作表达的意思就不完整，句子将无意义，所以必须要有补语，这也是跟状语的区别，状语缺失了也不影响句子本身的成立。
+    补语可分为：
+    （1）宾语补足语
+        Father will not allow us "to play on the street".
+        这里作为“宾语补足语”，是补充说明前文的allow，不然就不知道allow的具体是什么东西。
+    （2）主语补足语
+        We are not allowed "to play on the street".
+        这里作为“主语补足语”，也是补充说明not allowed。
+7、表语（Subject Complement）：表示主语的特征、性质或状态。
+    表语由名词、形容词、介词短语、动名词、不定式、副词、表语从句来充当。
+    He is "a teacher".
+    These desks are "yellow".
+    She is "in the classroom".
+    表语与主语补足语的区别是：
+    （1）主语补足语‌在被动语态的句子中，位于动词之后，用来补充说明主语，描述主语的身份、性质、状态等，如He was called "Oliver",或者We are not allowed "to play on the street"。
+    ‌（2）表语‌位于系动词之后，用来描述主语的性质或状态，说明主语“是什么”或“怎么样”，如This is "a book"。
+8、同位语（Appositive）：处于同等地位。
+    同位语由名词、名词词组来充当。
+    两个东西，可能是词或者词组，指同一个人或物，后者解释说明前者，后者就叫前者的同位语。
+    Mr.Smith,"our new teacher",is very kind to us.
+    We "Chinese people" are brave and hard-working.
+    Some vegetables for instance,"tomatoes" can help cure certain diseases.

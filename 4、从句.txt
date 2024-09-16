@@ -1,0 +1,79 @@
+从句
+1、什么是从句？
+    （1）从句是一个句子，要满足五种基本句型之一。
+    （2）从句是主句包含的一个小句子，充当主句中的一个句子成分。
+    （3）从句可以出现在主句中的任何一个位置，一个从句在句子中作什么成分，就叫什么从句。
+2、英语为什么会有从句？
+    任何语言都会有类似从句的概念，比如汉语只要说了一个谁做了什么事就是一个句子，但是很多时候我们不可能只在一个句子中只说一个谁做了什么事，那么多的那些势必就会变成从句。
+    比如：我看见谁谁做什么了。
+    这里的谁谁做什么了就是一个从句。
+3、怎样判断从句？
+    （1）所有的从句一定是以“从属连词”开头，但是有时这个从属连词会被省略，但是这不代表可以没有，只是为了句子的间接而省略了。
+    （2）从句本身作为一个句子，一定是要有谓语动词的。
+    也就是同时有“从属连词”，“谓语动词”才是从句。
+    即：从属连词 + 谓语动词 = 从句
+    此外所有的“从属连词”还可以称呼为，“连接词”，“关联词”（注意不是关系词），“引导词”。
+    注：对于从属连词具体指代哪些从句的连接词在不同的书上有争议，说法不同，这里认为从属连词就是全部的从句的连接词。
+4、从句分类有哪些？
+    从句可以充当除了“谓语”以外的其他七个句子成分。
+    先从句子成分上分类，然后从词性上分类：
+    4.1、名词性从句，共用一套从属连词。
+        4.1.1、主语从句
+            "Who will do the job" hasn't been decided.
+            "Where he was" confused me.
+        4.1.2、宾语从句
+            Then I realized "that I loved my parents so much".
+            She wanted to know "where he was".
+        4.1.3、表语从句
+            The question is "when we will open for business".
+            Her question was "where he was".
+        4.1.4、同位语从句
+            Just do it on the assumption "that you will succeed".
+            The woman neglected the question "where he was".
+        4.1.5、补语从句
+            She makes me "what I am today".
+            His arrogance left him "where he was".
+        4.1.6、名词性从句的五种从句共用的从属连词
+            （1）连接代词：what（whatever），who（whoever），whom（whomever），which（whichever），whose
+            （2）连接副词：when（whenever），where（wherever），how（however），why
+            （3）其他：because，that，whether，if，as if，as though
+    4.2、形容词性从句，单独用一套从属连词。
+        4.2.1、定语从句
+            例句：
+                I will go back to the village "where I grew up".
+                He decided to stay at the place "where he was".
+        4.2.2、定语从句的从属连词
+            统称为关系词。
+            （1）关系代词：who，whom，whose，that，whic，as
+            （2）关系副词：when，where，why 
+            可以看到定语从句的部分连词与名词性从句的部分连词重叠，此时可以通过从从句的类型来区分连词的类型。
+    4.3、副词性从句，单独用一套从属连词。
+        4.3.1、状语从句
+            （1）时间状语从句
+                Call me "when you arrive at the airport".
+                从属连词：when，as，while，until，before，after等等
+            （2）地点状语从句
+                Generally,air will be heavily polluted "where there are factories".
+                从属连词：where，wherever，anywhere，everywhere等等
+            （3）原因状语从句
+                She did not come to school "because she was ill".
+                从属连词：because，as，since等等
+            （4）结果状语从句
+                He got up so early "that he caught the first bus".
+                从属连词：so that，so...that...，such...that...等等
+            （5）条件状语从句
+                "If you ask him",he will help you.
+                从属连词：if，unless等等
+            （6）目的状语从句
+                You must speak louder "so that you can be heard by all".
+                从属连词：so that，in order that...等等
+            （7）让步状语从句
+                The old man always enjoys swimming "even if the weather is rough".
+                从属连词：although/though，even if/though，while等等
+            （8）比较状语从句
+                She is taller this year "than (she was) last year".
+                这里的she was可以省略，但是它们仍然是存在的。
+                从属连词：as...as...，than等等
+            （9）方式状语从句
+                She behaved as "if she was the boss".
+                从属连词：as，(just) as...so...，as if/though等等
