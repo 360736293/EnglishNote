@@ -16,30 +16,28 @@
     （2）独立主格作补充说明（用来强调主语谓语结构）。
         Yulong Snow Mountain is 5500 meters high,"its peak covered with snow all the year round".（如果作者想强调因果关系，可以看成作结果状语）
 3、独立主格结构。
-    主语 + 谓语动词 + ...，主格 + 非谓语动词 + ...
-    主格一般就由名词或代词充当，下列的独立主格都是位于句子的后半句，位于前半句也是可以的。
+    主格一般就由名词或代词充当，下列的独立主格位于句子的后半句，位于前半句都是可以的。
     （1）主格主动做非谓语动词这个动作。
-        主语 + 谓语 + ...，主格（名词/代词） + doing（动词现在分词，要求动词，所以不是动名词） + ...
+        主格（名词/代词） + doing（动词现在分词，要求动词，所以不是动名词） + ...
         Tere "are" lots of beautiful old buildings,many "sitting" on top of big hills.
     （2）主格被动承受非谓语动词这个动作。
-        主语 + 谓语 + ...，主格（名词/代词） + done（动词过去分词） + ...
+        主格（名词/代词） + done（动词过去分词） + ...
         Our teacher "sat" silently in her office,her eyes "closed".
     （3）主格将要去做非谓语动词这个动作。
-        主语 + 谓语 + ...，主格（名词/代词） + to do（动词不定式） + ...
+        主格（名词/代词） + to do（动词不定式） + ...
         No one "to wake" her up,Mary "will be" late for the exam.
         Many trees,flowers and grass "to be planted",our newly-built school "will look" even more attractive.
         当主格将要被动承受一个动作，但这个动作恰好是另外半句话的主语将要主动做的，那主格将要被动承受的这个动作，就只写成主动形式的to do就好，是为了表明另外半句话的主语将要主动去做这个动作。
         Many things "to settle",the manager "looked" worried.
         一个句子中的主语和谓语是句子的核心，当独立主格中的主语和谓语变成了主格和非谓语，那也只能去服务句子中的主语和谓语，所以独立主格中的不定式才要依据整句话的主语去做出调整，把被动形式写成主动形式。
-4、独立主格结构的其他构成方式。
-    （1）主格(名词/代词) + (being) + 形容词
+    （4）主格(名词/代词) + (being) + 形容词
         The shy girl entered the classroom,her face (being) red.
-    （2）主格(名词/代词) + (being) + 副词
+    （5）主格(名词/代词) + (being) + 副词
         His parents (being) away,Tom took good care of himself.
-    （3）主格(名词/代词) + (being) + 介词短语
+    （6）主格(名词/代词) + (being) + 介词短语
         being几乎都是直接省略掉的。
         The brave girl followed the hunter,a rifle in her hand.
-    （4）主格(名词/代词) + (being) + 名词
+    （7）主格(名词/代词) + (being) + 名词
         My brothers climbed the tree to get apples.But this being my first experience,at first I just stayed on the ground to watch.
 5、一句话里多个独立主格结构并列。
     如果一句话里面有多个独立主格结构，那么这些独立主格结构之间可以用and连接，也可以不用and连接。
