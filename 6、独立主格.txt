@@ -9,16 +9,48 @@
         （1）each "clutching" a coin or two
         （2）its peak "covered" with snow all the year round
         （3）Her colleagues "to help" her with the project
-    因为主格实质上就是独立的主语，独立主格结构能像主谓宾结构一样，独立的表达某人或某物怎么怎么样了，所以叫独立主格结构。
-2、独立主格结构。
+    因为主格实质上就是独立的主语，独立主格结构能像主谓宾结构一样，独立的表达某人或某物怎么怎么样了，所以叫独立主格结构（独立主格）。
+2、独立主格的作用。
+    （1）独立主格作状语。
+        His brothers and sisters jumped out of the car,"each clutching a coin or two".（作伴随状语）
+    （2）独立主格作补充说明（用来强调主语谓语结构）。
+        Yulong Snow Mountain is 5500 meters high,"its peak covered with snow all the year round".（如果作者想强调因果关系，可以看成作结果状语）
+3、独立主格结构。
     主语 + 谓语动词 + ...，主格 + 非谓语动词 + ...
     主格一般就由名词或代词充当，下列的独立主格都是位于句子的后半句，位于前半句也是可以的。
     （1）主格主动做非谓语动词这个动作。
-        主语 + 谓语 + ...，主格 + doing（动词现在分词，要求动词，所以不是动名词） + ...
+        主语 + 谓语 + ...，主格（名词/代词） + doing（动词现在分词，要求动词，所以不是动名词） + ...
         Tere "are" lots of beautiful old buildings,many "sitting" on top of big hills.
     （2）主格被动承受非谓语动词这个动作。
-        主语 + 谓语 + ...，主格 + done（动词过去分词） + ...
+        主语 + 谓语 + ...，主格（名词/代词） + done（动词过去分词） + ...
         Our teacher "sat" silently in her office,her eyes "closed".
     （3）主格将要去做非谓语动词这个动作。
-        主语 + 谓语 + ...，主格 + to do（动词不定式） + ...
+        主语 + 谓语 + ...，主格（名词/代词） + to do（动词不定式） + ...
         No one "to wake" her up,Mary "will be" late for the exam.
+        Many trees,flowers and grass "to be planted",our newly-built school "will look" even more attractive.
+        当主格将要被动承受一个动作，但这个动作恰好是另外半句话的主语将要主动做的，那主格将要被动承受的这个动作，就只写成主动形式的to do就好，是为了表明另外半句话的主语将要主动去做这个动作。
+        Many things "to settle",the manager "looked" worried.
+        一个句子中的主语和谓语是句子的核心，当独立主格中的主语和谓语变成了主格和非谓语，那也只能去服务句子中的主语和谓语，所以独立主格中的不定式才要依据整句话的主语去做出调整，把被动形式写成主动形式。
+4、独立主格结构的其他构成方式。
+    （1）主格(名词/代词) + (being) + 形容词
+        The shy girl entered the classroom,her face (being) red.
+    （2）主格(名词/代词) + (being) + 副词
+        His parents (being) away,Tom took good care of himself.
+    （3）主格(名词/代词) + (being) + 介词短语
+        being几乎都是直接省略掉的。
+        The brave girl followed the hunter,a rifle in her hand.
+    （4）主格(名词/代词) + (being) + 名词
+        My brothers climbed the tree to get apples.But this being my first experience,at first I just stayed on the ground to watch.
+5、一句话里多个独立主格结构并列。
+    如果一句话里面有多个独立主格结构，那么这些独立主格结构之间可以用and连接，也可以不用and连接。
+    （1）用and连接
+        "My heart pumping wildly" and "my blood pulsing through my veins",I pulled back the reins,distracted the horse and tried every means to stop the horses but in vain.
+    （2）不用and连接
+        The two boys said goodbye to each other,"one to go home","the other to go to the bookstore".
+6、独立主格结构作状语和非谓语动词作状语的区别。
+    非谓语动词：
+        He lay on the grass,"staring" at the sky for a long time.
+        由另外半句话的主语主动发出或被动承受的。
+    独立主格：
+        She finally began to speak,nervously,"her voice trembling" a bit.
+        是独立主格中的主格主动发出或被动承受的，跟另外半句话的主语无关。
