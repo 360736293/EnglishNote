@@ -384,7 +384,7 @@
                     Learning English is important.
                     学英语(这件事)是重要的。
                 6.2.2.2、动词现在分词（注意，单词形式上与动名词一样，但是动名词本质是名词，动词现在分词本质是动词！）
-                    强调句子里的某个人或东西正在做；强调句子里的某个人或东西主动做（主动发出动作，而不是被动，即现在分词表主动）。
+                    强调句子里的某个人或东西正在做；强调句子里的某个人或东西主动做（主动发出动作，而不是被动承受动作，即现在分词表主动）。
                     The boy learning English over there is my brother.
                     在那边学英语的男孩是我弟弟。
                     Tom sat on the couch,watching a movie.

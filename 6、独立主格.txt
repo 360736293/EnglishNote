@@ -1,0 +1,24 @@
+独立主格
+1、什么是独立主格？
+    英语里规定，一句话只能有一个谓语或者说谓语动词，要想有第二个谓语动词，必须写上一个用来连接谓语动词的连词才行，如果没有，可以把其中的一个谓语动词改成非谓语动词，另一个保持不变即可。
+    如：
+        （1）His brothers and sisters "jumped" out of the car,each "clutching" a coin or two.
+        （2）Yulong Snow Mountain "is" 5500 meters high,its peak "covered" with snow all the year round.
+        （3）Her colleagues "to help" her with the project,she "is" sure to succeed.
+    在非谓语动词原来还是谓语动词的时候（clutched，is covered，will help），他们前面的词叫做主语，但是现在已经不是谓语动词了，他们就不能叫做主语，因为语法上规定，只有谓语动词前面的词才可以叫主语，语法专家为了讲解方便，就给这些非谓语动词前面的词起了个名，就叫主格，这就是独立主格结构，主格的由来；然后由主格和后面的非谓语动词以及其他必须跟非谓语动词连在一起翻译的内容，这个整体就叫做独立主格结构。
+        （1）each "clutching" a coin or two
+        （2）its peak "covered" with snow all the year round
+        （3）Her colleagues "to help" her with the project
+    因为主格实质上就是独立的主语，独立主格结构能像主谓宾结构一样，独立的表达某人或某物怎么怎么样了，所以叫独立主格结构。
+2、独立主格结构。
+    主语 + 谓语动词 + ...，主格 + 非谓语动词 + ...
+    主格一般就由名词或代词充当，下列的独立主格都是位于句子的后半句，位于前半句也是可以的。
+    （1）主格主动做非谓语动词这个动作。
+        主语 + 谓语 + ...，主格 + doing（动词现在分词，要求动词，所以不是动名词） + ...
+        Tere "are" lots of beautiful old buildings,many "sitting" on top of big hills.
+    （2）主格被动承受非谓语动词这个动作。
+        主语 + 谓语 + ...，主格 + done（动词过去分词） + ...
+        Our teacher "sat" silently in her office,her eyes "closed".
+    （3）主格将要去做非谓语动词这个动作。
+        主语 + 谓语 + ...，主格 + to do（动词不定式） + ...
+        No one "to wake" her up,Mary "will be" late for the exam.
